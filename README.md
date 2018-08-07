@@ -37,7 +37,7 @@ A secure server for propriotory message exchanges
 </div>
 
 <div align="center">
-  <h3>
+  <h4>
     <a href="https://choo.io">
      Features
     </a>
@@ -65,5 +65,5 @@ A secure server for propriotory message exchanges
     <a href="https://webchat.freenode.net/?channels=choo">
       Chat
     </a>
-  </h3>
+  </h4>
 </div>
