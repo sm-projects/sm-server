@@ -39,15 +39,15 @@ A secure server for propriotory message exchanges
 <div align="center">
   <h3>
     <a href="https://choo.io">
-      Website
+     Features
     </a>
     <span> | </span>
     <a href="https://github.com/choojs/choo-handbook">
-      Handbook
+      Installation
     </a>
     <span> | </span>
     <a href="https://github.com/YerkoPalma/awesome-choo">
-      Ecosystem
+      Release Notes
     </a>
     <span> | </span>
     <!-- <a href="https://github.com/trainyard/choo-cli"> -->
@@ -55,7 +55,7 @@ A secure server for propriotory message exchanges
     <!-- </a> -->
     <!-- <span> | </span> -->
     <a href="https://github.com/choojs/choo/blob/master/.github/CONTRIBUTING.md">
-      Contributing
+      Dependencies
     </a>
     <span> | </span>
     <a href="https://www.reddit.com/r/choojs/">
