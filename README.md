@@ -67,7 +67,6 @@ A secure server for propriotory message exchanges
     </a>
   </h4>
 </div>
----
 
 ## Table of Contents
 - [Features](#features)
