@@ -67,6 +67,7 @@ A secure server for propriotory message exchanges
     </a>
   </h4>
 </div>
+---
 
 ## Table of Contents
 - [Features](#features)
@@ -83,6 +84,8 @@ A secure server for propriotory message exchanges
 - [Installation](#installation)
 - [See Also](#see-also)
 - [Support](#support)
+
+---
 
 ## Features
 - __minimal size:__ weighing `4kb`, Choo is a tiny little framework
