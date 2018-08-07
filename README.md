@@ -67,3 +67,27 @@ A secure server for propriotory message exchanges
     </a>
   </h4>
 </div>
+
+## Table of Contents
+- [Features](#features)
+- [Example](#example)
+- [Philosophy](#philosophy)
+- [Events](#events)
+- [State](#state)
+- [Routing](#routing)
+- [Server Rendering](#server-rendering)
+- [Components](#components)
+- [Optimizations](#optimizations)
+- [FAQ](#faq)
+- [API](#api)
+- [Installation](#installation)
+- [See Also](#see-also)
+- [Support](#support)
+
+## Features
+- __minimal size:__ weighing `4kb`, Choo is a tiny little framework
+- __event based:__ our performant event system makes writing apps easy
+- __small api:__ with only 6 methods there's not much to learn
+- __minimal tooling:__ built for the cutting edge `browserify` compiler
+- __isomorphic:__ renders seamlessly in both Node and browsers
+- __very cute:__ choo choo!
